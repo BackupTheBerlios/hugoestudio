@@ -1,0 +1,7 @@
+0.1
+-English
+--The configure and make is normal, but on make install it will return a error message saying somethig abut relink a library with another one, anyway is only a message it seems work fine.
+--We had a trouble including the language file, better say loading it, the program try to load in the same directory in where the executable is, because of that some messages or labels won't appear or appear in spanish (both languajes are affected) so, you need create a file "lang.len" in the place where is the executable, the file must contain a number 0(spanish) or 1(english).
+-Español
+--Al ejecutar configure  y make todo es normal, pero cuando se ejecuta make install este va a retornar un mensaje de error diciendo0 algo acerca de re-enlazar las librerias compartidas, de todas maneras a pesar del mensaje parece ser que el programa funciona bien y parece que se instala.
+--Tuvimos un problema incluyendo el archivo de lenguaje, mejor dicho, cargandolo, el programa trata de cargarlo en donde el esta, es decir lo busca en el mismo directorio, debido a eso algunos mensajes o Labels no aparecen o aparecen en español (ambos lenguajes se ven afectados) entonces, usted debe crear un archivo llamado "lang.len" en el lugar donde esta el ejecutable, el archivo debe contener un numero 0(español) o 1 (ingles).

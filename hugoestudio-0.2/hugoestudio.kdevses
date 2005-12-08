@@ -1,0 +1,36 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <DocsAndViews NumberOfDocuments="4" >
+  <Doc0 NumberOfViews="1" URL="file:///home/hugo/hugoestudio/src/hugopanel.h" >
+   <View0 line="22" Type="Source" />
+  </Doc0>
+  <Doc1 NumberOfViews="1" URL="file:///home/hugo/hugoestudio/src/hugoestudio.h" >
+   <View0 line="50" Type="Source" />
+  </Doc1>
+  <Doc2 NumberOfViews="1" URL="file:///home/hugo/hugoestudio/src/Hugomat.cpp" >
+   <View0 line="827" Type="Source" />
+  </Doc2>
+  <Doc3 NumberOfViews="1" URL="file:///home/hugo/hugoestudio/src/Hugomat.h" >
+   <View0 line="94" Type="Source" />
+  </Doc3>
+ </DocsAndViews>
+ <pluginList>
+  <kdevdebugger>
+   <breakpointList>
+    <breakpoint0 location="/home/hugo/hugoestudio/src/interprete.cpp:390" type="1" condition="" enabled="1" />
+    <breakpoint1 location="/home/hugo/hugoestudio/src/interprete.cpp:455" type="1" condition="" enabled="1" />
+    <breakpoint2 location="/home/hugo/hugoestudio/src/interprete.cpp:483" type="1" condition="" enabled="1" />
+   </breakpointList>
+  </kdevdebugger>
+  <kdevbookmarks>
+   <bookmarks/>
+  </kdevbookmarks>
+  <kdevvalgrind>
+   <executable path="" params="" />
+   <valgrind path="" params="" />
+   <calltree path="" params="" />
+   <kcachegrind path="" />
+  </kdevvalgrind>
+ </pluginList>
+</KDevPrjSession>

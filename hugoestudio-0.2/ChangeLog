@@ -1,0 +1,21 @@
+Version 0.1
+English
+- GUI
+* Debug text box
+* Editor and answer text box
+- Interpeter
+* Get and identifies the operations, actually supported: exponencial, general exponencial, logaritm, natural logaritm, root, polinomic fuctions, derivative, integral.
+- Mathematical solver
+* Sums polinomic functions.
+* With real numbers can solve some operations, actually supported: exponencial, general exponencial, logaritm, natural logaritm, root.
+* Can solve very simple derivatives of the form ax^n=anx^(n-1).
+* Can solve very simple integrals of the followings forms: a=ax, ax^n=(ax^(n+1))/(n+1).
+Español
+- GUI
+* Caja de texto de depuracion.
+* Editor y caja de texto para respuestas.
+- Interprete
+* Obtienen e identifica las operaciones, actualmente soportadas: exponencial, exponencial general, logaritmo, logaritmo natiural, raiz, polinomios, derivada e integral.
+* Con numeros reales puede resolver algunas operaciones, actualmente soportadas: exponencial, exponencial general, logarimo, logaritmo natural, raiz.
+* Puede resolver derivadas muy simples de la form ax^n=anx^(n-1).
+* Puede resolver integrales muy simples de las siguientes formas: a=ax, ax^n=(ax^(n+1))/(n+1).

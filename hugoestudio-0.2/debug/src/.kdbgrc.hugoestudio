@@ -1,0 +1,94 @@
+[Breakpoint 0]
+Enabled=true
+File=app.h
+Line=474
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=locale_facets.tcc
+Line=2445
+Temporary=false
+
+[Breakpoint 10]
+Enabled=true
+File=/home/hugo/hugoestudio/src/Hugomat.cpp
+Line=662
+Temporary=false
+
+[Breakpoint 11]
+Enabled=true
+File=/home/hugo/hugoestudio/src/Hugomat.cpp
+Line=704
+Temporary=false
+
+[Breakpoint 12]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=422
+Temporary=false
+
+[Breakpoint 13]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=64
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=787
+Temporary=false
+
+[Breakpoint 3]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=33
+Temporary=false
+
+[Breakpoint 4]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=120
+Temporary=false
+
+[Breakpoint 5]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=164
+Temporary=false
+
+[Breakpoint 6]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=237
+Temporary=false
+
+[Breakpoint 7]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=306
+Temporary=false
+
+[Breakpoint 8]
+Enabled=true
+File=/home/hugo/hugoestudio/src/interprete.cpp
+Line=376
+Temporary=false
+
+[Breakpoint 9]
+Enabled=true
+File=/home/hugo/hugoestudio/src/Hugomat.cpp
+Line=620
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+FileVersion=1
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
